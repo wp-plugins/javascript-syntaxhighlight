@@ -1,5 +1,5 @@
 === Javascript Syntax Highlighter ===
-Contributors: peterryan
+Contributors: peterryan, rarian 
 Tags: code, syntax, highlighter, javascript, formatting
 Requires at least:2.0.0
 Tested up to: 3.0
